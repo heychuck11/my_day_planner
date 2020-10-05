@@ -1,1 +1,1 @@
-This is my liitle day planner created to help me manage my time during the day granted that 9am to 5pm seems small with everything we are doing for the day but also made a way to save are events during the day or if we need to change it I can.
+This is my litle day planner created to help me manage my time during the day granted that 9am to 5pm seems small with everything we are doing for the day but also made a way to save are events during the day or if we need to change it I can. Even giving me the time of day in colors.
